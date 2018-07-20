@@ -1,0 +1,6 @@
+framework module Pods_rxSwiftNodeElm {
+  umbrella header "Pods-rxSwiftNodeElm-umbrella.h"
+
+  export *
+  module * { export * }
+}

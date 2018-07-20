@@ -1,0 +1,11 @@
+target 'rxSwiftNodeElm' do
+ use_frameworks!
+pod 'RxSwift'
+pod 'RxCocoa'
+pod 'RxDataSources', '~> 3.0'
+pod 'Then'
+pod 'Kingfisher'
+pod 'ObjectMapper', '~> 3.3'
+pod 'Alamofire'
+pod 'Moya/RxSwift', '~> 11.0'
+end 
